@@ -21,7 +21,7 @@
 </p>
 </br>
 
-I work since 2010 in the development of systems on demand where I acquired solid knowledge in several areas:
+I have been working since 2010 in the development of systems on demand where I acquired solid knowledge in several areas:
 
 - Analysis of processes and requirements, documentation, support and training to the user, management and implementation of ERP and customized projects in general (Sales, finance, production, purchasing, billing, inventory and others);
 - Integration of government tax processes, rules and requirements (NF-e, NFS-e, CT-e, DF-e, CC-e, GNRE, EFD-Reinf, SPEDs), e-commerce, payment gateway;
