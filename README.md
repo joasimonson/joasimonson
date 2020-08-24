@@ -24,7 +24,7 @@ I have been working since 2010 in the development of systems on demand where I a
 Dedicated to performing tasks with quality always with a critical and analytical view of the business.
 
 
-Passionate about the Capital Market and Investments in general: Fixed Income, Funds, FII, Stocks, Options, Trading, Structured Operations and others ..
+Passionate about the Capital Market and Investments in general: Fixed Income, Funds, FII, Stocks, Options, Trading, Structured Operations and others.
 
 ![Jô Github Stats](https://github-readme-stats.vercel.app/api?username=joasimonson&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
