@@ -28,6 +28,9 @@ Passionate about the Capital Market and Investments in general: Fixed Income, Fu
 
 ![Jô Github Stats](https://github-readme-stats.vercel.app/api?username=joasimonson&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![Jô Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joasimonson&layout=compact&text_color=9f9f9f&bg_color=151515)
+
+
 When all this tires me out I try to play the drums
 
 **Contact me:**
@@ -50,3 +53,5 @@ When all this tires me out I try to play the drums
   </a>
 </p>
 </br>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=joasimonson" alt="Visitors counter badge" />
