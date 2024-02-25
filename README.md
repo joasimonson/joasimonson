@@ -4,9 +4,9 @@
 I have been working since 2010 in the development of systems on demand where I acquired solid knowledge in several areas:
 
 - Analysis of processes and requirements, documentation, support and training to the user, management and implementation of ERP and customized projects in general (Sales, finance, production, purchasing, billing, inventory and others);
-- Integration of government tax processes, rules and requirements (NF-e, NFS-e, CT-e, DF-e, CC-e, GNRE, EFD-Reinf, SPEDs), e-commerce, payment gateway;
+- Integration of government tax processes, rules and requirements, e-commerce, payment gateway;
 - Database design, implementation and administration.
-- Design Patterns, SOLID, C #, Asp.Net MVC, APIs, Web Services, Javascript, React Native, Redux, Firebase, Visual Fox Pro 9, Git.
+- Design Patterns, SOLID, C#, Asp.Net, APIs, Web Services, Javascript, ReactJS, React Native, Angular, Visual Fox Pro 9, Git.
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
